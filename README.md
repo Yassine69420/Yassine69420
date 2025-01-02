@@ -17,21 +17,21 @@
 ### Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,php,js,html,css,git,mysql,latex" alt="Skills" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,html,css,mysql,latex,linux" alt="Skills" style="max-width: 100%;">
   </a>
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind" alt="Skills" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,dotnet" alt="Skills" style="max-width: 100%;">
   </a>
 </p>
 
 ### Softwares
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,obsidian,discord,postman,vscode" alt="Skills" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,obsidian,discord,postman" alt="Skills" style="max-width: 100%;">
   </a>
 </p>
 
