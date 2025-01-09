@@ -17,7 +17,7 @@
 ### Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,html,css,mysql,latex,linux" alt="Skills" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,html,css,mysql,latex" alt="Skills" style="max-width: 100%;">
   </a>
 </p>
 
