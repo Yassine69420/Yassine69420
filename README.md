@@ -14,26 +14,38 @@
 
 ## Tools and Technologies
 
-### Languages and Tools
+### Langages de programmation
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,html,css,mysql,latex" alt="Skills" style="max-width: 100%;">
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,java,php,cs,mysql" alt="Programming Languages" />
 </p>
 
-### Frameworks & Libraries
+### Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,dotnet" alt="Skills" style="max-width: 100%;">
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Tools" />
 </p>
 
-### Softwares
+### Backend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,obsidian,discord,postman" alt="Skills" style="max-width: 100%;">
-  </a>
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet" alt="Backend Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java" alt="J2EE (represented by Java)" />
 </p>
+
+### Bases de données
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+</p>
+
+### Outils
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,azure" alt="Tools" />
+</p>
+
+### Autres
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="SCRUM/Design/Testing Tools (figma placeholder)" />
+</p>
+
 
 ## Projects
 <p style="font-size: 1.1em; text-align: center; max-width: 600px; margin: 20px auto;">
