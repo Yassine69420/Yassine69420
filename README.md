@@ -14,7 +14,7 @@
 
 ## Tools and Technologies
 
-### Langages de programmation
+### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,php,cs,mysql" alt="Programming Languages" />
 </p>
@@ -30,17 +30,17 @@
   <img src="https://skillicons.dev/icons?i=java" alt="J2EE (represented by Java)" />
 </p>
 
-### Bases de données
+### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
 </p>
 
-### Outils
+### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,postman,azure" alt="Tools" />
 </p>
 
-### Autres
+### Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
   <img src="https://skillicons.dev/icons?i=figma" alt="SCRUM/Design/Testing Tools (figma placeholder)" />
