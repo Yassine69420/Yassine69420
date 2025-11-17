@@ -14,44 +14,27 @@
 
 ## Tools and Technologies
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,php,cs,mysql" alt="Programming Languages" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Tools" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet" alt="Backend Frameworks" />
-  <img src="https://skillicons.dev/icons?i=java" alt="J2EE (represented by Java)" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,azure" alt="Tools" />
-</p>
-
-### Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="SCRUM/Design/Testing Tools (figma placeholder)" />
-</p>
-
+🔧 DevOps & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,ansible,azure,git" /> </p>
+⚙️ Backend & Programming
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,dotnet,php,cs,js,c" /> </p>
+🎨 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,bootstrap" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /> </p>
+🛠 Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=postman,figma,latex" /> </p>
 
 ## Projects
 <p style="font-size: 1.1em; text-align: center; max-width: 600px; margin: 20px auto;">
   Feel free to explore my repositories to see the projects I've been working on. I'm always open to collaboration and new opportunities. Let's connect and build something amazing together!
 </p>
 
+📊 GitHub Stats
+<div align="center"> 
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine69420&layout=compact&theme=tokyonight&hide_border=true" height="160"/> 
+ </div>
 ## Contact
 <p style="font-size: 1.1em; text-align: center;">
   You can reach me through my GitHub profile or connect with me on 
@@ -59,6 +42,7 @@
 </p>
 
 ---
+
 
 <p align="center" style="font-size: 1.1em; color: #777;">
   Thank you for visiting my profile!
